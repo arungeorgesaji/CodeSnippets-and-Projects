@@ -12,7 +12,7 @@ from gpiozero import Button
 
 button = Button(2)
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def speak(text, voice='ml', speed=150, pitch=50):
     tts = gTTS(text=text, lang='ml')
