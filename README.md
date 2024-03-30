@@ -12,7 +12,8 @@ The repository is organized into different directories based on programming lang
 - **multiplication-master**: A simple game that can help children learn multiplication tables(could contain bugs please report if you are able to find any so we can improve it).
 - **ml**: Contains simple Ais made(the code may not be complete/meaningful).
 - **stylish-terminal-projects** Contains simple terminal projects which has cool stylish effects like animations and colours.
-- **website**: Contains simple websites made using HTML, CSS, and vanilla javascript. The websites are made without a backend framework. 
+- **website**: Contains simple websites made using HTML, CSS, and vanilla javascript. The websites are made without a backend framework.
+- **Spectrumizer.py**:A simple Python spectrum analyzer that shows simple graphs representing the frequencies of the surrounding area, it also shows PWM on an LED which indicates the frequency of the surrounding by showing various brightness levels(this feature will only work if you run it will a Raspberry Pi).
 
 Feel free to explore the directories and discover the content that interests you!
 
